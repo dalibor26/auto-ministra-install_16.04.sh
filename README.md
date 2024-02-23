@@ -1,7 +1,7 @@
 Get the Script.
 
 cd ~
-git clone https://gitlab.com/dalibor/auto-ministra-install_16.04.git
+git clone https://github.com/dalibor26/auto-ministra-install_16.04.git
 
 
 
