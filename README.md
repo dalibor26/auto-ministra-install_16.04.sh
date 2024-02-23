@@ -6,7 +6,7 @@ git clone [https://github.com/dalibor26/auto-ministra-install_16.04.git](https:/
 
 
 
-Run the Script.
+<H2><b>Run the Script.</b></h2>
 
 cd ~/auto-ministra-install_16.04
 <br>
